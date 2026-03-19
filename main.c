@@ -14,8 +14,8 @@ RM: 569528
 #include<stdlib.h>
 
 int main() {
-    printf("Ola professor");
+    printf("Ola professor\n");
     printf("Miguel Marcelo Alves Ramos de Oliveira\n");
-    printf("Felipe de Oliveira Doern"); 
+    printf("Felipe de Oliveira Doern\n"); 
     return 0;
 }
