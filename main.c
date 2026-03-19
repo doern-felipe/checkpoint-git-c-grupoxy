@@ -12,7 +12,6 @@ RM: 569528
 
 Nome: Tom Stringasci Albuquerque Coelho Morais
 RM: 568844
-
 */
 
 #include<stdio.h>
