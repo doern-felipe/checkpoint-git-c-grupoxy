@@ -5,7 +5,8 @@ RM: 569467
 
 #include<stdio.h>
 
-int main(){
+int main() {
     printf("Ola professor");
+    printf("Miguel Marcelo Alves Ramos de Oliveira\n");
     return 0;
 }
