@@ -4,6 +4,10 @@ RM: 569467
 
 Nome: Felipe de Oliveira Doern
 RM: 568798
+
+Nome: Eric dos Santos Mendes da Silva
+RM: 569528
+
 */
 
 #include<stdio.h>
@@ -12,6 +16,6 @@ RM: 568798
 int main() {
     printf("Ola professor");
     printf("Miguel Marcelo Alves Ramos de Oliveira\n");
-    printf("Felipe de Oliveira Doern");
+    printf("Felipe de Oliveira Doern"); 
     return 0;
 }
