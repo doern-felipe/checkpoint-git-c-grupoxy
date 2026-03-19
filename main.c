@@ -27,7 +27,5 @@ int main() {
     printf("Eric dos Santos Mendes da Silva\n");
 
     printf("Tom Stringasci Albuquerque Coelho Morais\n");
-
-    system("pause");
     return 0;
 }
