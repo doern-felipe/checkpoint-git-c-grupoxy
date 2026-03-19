@@ -1,6 +1,9 @@
 /*
 Nome: Miguel Marcelo Alves Ramos de Oliveira
 RM: 569467
+
+Nome: Felipe de Oliveira Doern
+RM: 568798
 */
 
 #include<stdio.h>
